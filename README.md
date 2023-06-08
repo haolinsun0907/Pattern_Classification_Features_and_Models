@@ -1,3 +1,8 @@
+# Main Functionalities
+• Implemented multiple discriminative machine learning models without using any ML toolkits on the MNIST dataset using Python, including PCA, LDA, t-SNE, Linear Regression, Logistic Regression, MCE, Gaussian RBF SVM, Linear SVM, and Deep Neural Networks.
+
+• Achieved state-of-the-art performance for most models, with over 96% accuracy.
+
 # Running enviroment and developing tools I use:
 - Anaconda 1.10.0
 - Spyder(Python3.8) 4.1.4
@@ -15,6 +20,9 @@ I also provided a Jupyter notebook file to make sure you can see the all results
 jupyter notebook
 ```
 open the file [demo.ipynb](demo.ipynb) to see the results
+
+# Full Report
+To see the details of implementations and results for each algorithm, please see the file **project1_report.pdf**
 
 # Repeat experiments
 All you need to do is run the following command to get all the results.
