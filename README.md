@@ -14,7 +14,7 @@ I also provided a Jupyter notebook file to make sure you can see the all results
 ```bash
 jupyter notebook
 ```
-open the demo.ipynb
+open the file [demo.ipynb](demo.ipynb) to see the results
 
 # Repeat experiments
 All you need to do is run the following command to get all the results.
